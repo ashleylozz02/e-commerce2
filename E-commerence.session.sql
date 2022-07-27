@@ -1,0 +1,2 @@
+ALTER TABLE `CRUD`.`Products` 
+DROP COLU
