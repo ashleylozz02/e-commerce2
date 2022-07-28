@@ -38,7 +38,7 @@ As global superstars who play stadiums and are loved by countless fans across th
 ","$45.99");
 
 
-Error Code: 1136. Column count doesn't match value count at row 4
+
 
 
 SELECT * FROM products
